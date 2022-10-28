@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as GCP Data Engineer.<br>I am looking to collaborate on Data Engineering<br>I'm currently learning Big Data<br>Ask me about Python,SQL,Tableau<br>
+I am currently working as GCP Data Engineer.<br>I have a Professional Certification of Google Data Analytics <br>I am looking to collaborate on Data Engineering<br>I'm currently learning Big Data<br>Ask me about Python,SQL,Tableau<br>
 <br>Strong Communication, Presentation, and Interpersonal skills with excellent problem-solving capabilities</br>
 
 
